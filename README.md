@@ -18,7 +18,7 @@ and then paste the following
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <project path="device/motorola/miami"
-	name="ast261/twrp_device_motorola_miami"
+	name="Claymore1297/device_motorola_miami"
 	remote="github"
 	revision="android-12.1" />
 </manifest>
